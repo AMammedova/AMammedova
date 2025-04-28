@@ -32,24 +32,28 @@
 <hr />
 
 <!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AiselMamedova&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
-</div>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=AMammedova&theme=darkhub" alt="GitHub Trophies" />
+</a>
+
 
 <hr />
 
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <div align="center">
-  <a href="https://github.com/AiselMamedova">
-    <img src="https://github-readme-stats.vercel.app/api?username=AiselMamedova&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AiselMamedova&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-  <a href="https://github.com/AiselMamedova">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiselMamedova&layout=compact&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&langs_count=6" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AMammedova&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AMammedova&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMammedova&layout=compact&theme=radical" />
 </div>
+
+<br />
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMammedova&theme=xcode" />
+</div>
+
 
 <br />
 
@@ -57,5 +61,5 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AiselMamedova&theme=xcode" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMammedova&theme=xcode" alt="GitHub Activity Graph" />
 </div>
